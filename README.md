@@ -1,10 +1,7 @@
 ## Hi there 👋
-
+<h2>🙏 Welcome to @machan1119!</h2>
 <!--
-**eugenegarrett/eugenegarrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +11,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br/>  
+<h3>📌 Github Statistics</h3>
+  <br>
+<p align="center">
+<p><img align="left" src="https://github-readme-stats-eight-ruby-89.vercel.app/api/top-langs?username=machan1119&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats-eight-ruby-89.vercel.app/api?username=machan1119&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p>
+<br><br><br><br><br><br><br><br><br>
+
+
