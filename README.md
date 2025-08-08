@@ -1,9 +1,11 @@
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=machan1119&theme=tokyonight&show_icons=true&show=reviews,prs_merged,prs_merged_percentage" />
-</a>
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=machan1119&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-</a>
+<p align="center" display="flex" gap="20px">
+  <a href="#">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=machan1119&theme=tokyonight&show_icons=true&show=reviews,prs_merged,prs_merged_percentage" />
+  </a>
+  <a href="#">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=machan1119&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  </a>
+</p>
 
 # Hello World 👋
 <p align="center">
