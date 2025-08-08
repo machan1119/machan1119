@@ -1,4 +1,4 @@
-<p align="center" display="flex" gap="20px">
+<p align="center">
   <a href="#">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=machan1119&theme=tokyonight&show_icons=true&show=reviews,prs_merged,prs_merged_percentage" />
   </a>
