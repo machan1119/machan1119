@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=machan1119&theme=tokyonight&show_icons=true&show=prs_merged,prs_merged_percentage" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=machan1119&theme=tokyonight&show_icons=true&show=prs_merged" />
   </a>
   <a href="#">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=machan1119&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
@@ -15,10 +15,15 @@
   <a href="https://discord.com/users/1309953464402448457"><img src="https://img.shields.io/badge/machan1119-grey?style=flat&logo=discord" alt="machan1119" /></a>
   <img src="https://img.shields.io/badge/+14642198665-grey?style=flat&logo=whatsapp" alt="+14642198665" />
 </p>
+
 ## About Me
+
 - Graduate of the Full Stack Web Development Program at Osaka Institute of Technology
+  
 - Hacker at heart - I call it creative engineering ;)
+  
 - Coding fan, passinate
+  
 - Quick learner
   
 ## Tech Stack
