@@ -6,13 +6,6 @@
 </a>
 
 # Hello World 👋
-
-## About Me
-- Graduate of the Full Stack Web Development Program at Osaka Institute of Technology
-- Hacker at heart - I call it creative engineering ;)
-- Coding fan, passinate
-- Quick learner
-  
 <p align="center">
   <a href="https://github.com/machan1119"><img src="https://komarev.com/ghpvc/?username=machan1119&label=Profile%20views&color=blue&style=flat" alt="machan1119" /></a>
   <a href="https://github.com/machan1119?tab=followers"><img height="20" src="https://img.shields.io/github/followers/machan1119?label=follow&logo=github&style=flat" /></a>
@@ -20,6 +13,12 @@
   <a href="https://discord.com/users/1309953464402448457"><img src="https://img.shields.io/badge/machan1119-grey?style=flat&logo=discord" alt="machan1119" /></a>
   <img src="https://img.shields.io/badge/+14642198665-grey?style=flat&logo=whatsapp" alt="+14642198665" />
 </p>
+## About Me
+- Graduate of the Full Stack Web Development Program at Osaka Institute of Technology
+- Hacker at heart - I call it creative engineering ;)
+- Coding fan, passinate
+- Quick learner
+  
 ## Tech Stack
 ### Frameworks
 <img src="https://img.shields.io/badge/Next%20JS-000000?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
